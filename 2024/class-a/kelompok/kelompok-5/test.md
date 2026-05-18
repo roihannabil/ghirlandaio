@@ -1,7 +1,11 @@
 konek internet
+
 timedatctl
+
 partisi
+
 fdisk -l
+
 Mirror
 ```
 nano /etc/pacman.d/mirrorlist
