@@ -1,13 +1,13 @@
 # Cara Install Plasma
 Jika sudah masuk ke dalam base linux, ikuti langkah-langkah di bawah ini:
 
-## Formating
+### Formating
 ``` 
 root
 ```
-Masukin Password
+Masukin password
 
-Cek Connect Wifi
+Cek connect wifi
 ```
 iwctl
 ```
@@ -34,11 +34,11 @@ systemctl restart systemd - resolved
 ```
 systemctl restart iwd
 ```
-lalu connect wifi lagi
+lalu connect wifi lagi 
 
 kalau sudah, instal lagi KDE plasma
 
-jika sudah terinstal :
+jika sudah terinstal,
 masukin usseradd 
 ```
 usseradd -m  (nama usser)
@@ -54,7 +54,7 @@ sudo systemctl enable --now sddm
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/64fca410-3726-4210-b6db-23962afb77b4" />
 
 # Penggunaan Plasma
-## Untuk Aktifkan NetworkManager 
+## Cara Aktifkan NetworkManager 
 buka terminal, lalu ketik 
 ```
 su -
