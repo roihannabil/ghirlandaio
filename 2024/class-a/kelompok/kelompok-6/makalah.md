@@ -114,7 +114,7 @@ PipeWire merupakan kerangka kerja multimedia tingkat rendah yang digunakan untuk
    ``` pactl info ```. Jika instalasi berhasil maka akan muncul tulisan ``` Server Name: PulseAudio (on PipeWire) ``` , tulisan tersebut menunjukkan bahwa PipeWire telah aktif dan berfungsi sebagai sistem audio utama pada Arch Linux.
 
 ## 2.4 Dolphin
-Dolphin merupakan file manager bawaan KDE yang digunakan untuk mengelola file dan folder pada sistem Linux.  Selain itu, Dolphin juga mendukung fitur preview file untuk video, gambar, PDF, audio, dan berbagai format lainnya melalui paket tambahan seperti ffmpegthumbs dan kdegraphics-thumbnailers. Penjelasan Installasi KDE Plasma:
+Dolphin adalah pengelola file bawaan Plasma. Tujuannya adalah untuk meningkatkan kemudahan penggunaan pada tingkat antarmuka pengguna. Dolphin hanya berfokus sebagai pengelola file. Selain itu, Dolphin juga mendukung fitur preview file untuk video, gambar, PDF, audio, dan berbagai format lainnya. Penjelasan Installasi KDE Plasma:
 
 1. Install Dolphin
 
