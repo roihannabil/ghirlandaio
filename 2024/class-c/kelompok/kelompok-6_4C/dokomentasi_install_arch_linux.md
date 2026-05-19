@@ -1,9 +1,9 @@
-# Cara Installasi Dekstop Arch Linux
+# Cara Installasi Desktop Arch Linux
 Jika sudah masuk ke dalam base linux, ikuti di bawah ini:
 
 ## Formating
 ``` 
-Root
+root
 ```
 Masukin Password
 
@@ -23,7 +23,7 @@ ping 8.8.8.8
 ```
 ## Instal KDE Plasma 
 ```
-pacman -S plasma networkmanager piperwire dolphin kitty
+pacman -S plasma sddm 
 ```
 jika terjadi eror, seperti : 
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c28a04bf-171d-4011-9b9a-7c433047ce02" />
