@@ -17,7 +17,7 @@ exit  <br>
 
 ## lihat partisi 
  __fdisk -l__ <br>
- untuk melihat partisi 
+ untuk melihat partisi <br>
 __lsblk__ <br>
 fungsi yang sama tetapi lebih minim dan fungsi melihat mana yang di block 
 
